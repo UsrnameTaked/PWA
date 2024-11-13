@@ -1,0 +1,29 @@
+{
+  "name": "Mi PWA Simple",
+  "short_name": "MiPWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+  {
+      "src": "/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+  }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1353x639",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "351x570",
+      "type": "image/png"
+    }
+  ]
+
+}

@@ -1,0 +1,2 @@
+web     https://UsrnameTaked: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@github.com/UsrnameTaked/practicas.git (fetch)
+web     https://UsrnameTaked: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@github.com/UsrnameTaked/practicas.git (push)
